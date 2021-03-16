@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![East Lake](../images/whdh.jpg)

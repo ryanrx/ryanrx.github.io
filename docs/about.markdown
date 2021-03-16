@@ -1,18 +1,59 @@
 ---
 layout: page
-title: About
+title: "About Me"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Education
+**Cornell University**\
+Ithaca, NY\
+*Master of Engineering*, Computer Science (2021)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+**Emory University**\
+Atlanta, GA\
+*Bachelor of Science*, Mathematics and Computer Science (2020)
+<br/>
+<br/>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Relevant Courses
+- Data Structures and Algorithms
+- Database Systems
+- Operating Systems
+- Computer Networks
+- Machine Learning
+- Data Mining
+- Big Data Technologies
+- Systems Programming
+- Numerical Analysis
+- Computer Organization
+- Financial Accounting
+<br/>
+<br/>
 
+## Relevant Skills
+- Python
+- Java
+- C
+- SQL
+- JavaScript
+- R
+- React
+- MATLAB
+- Data Analysis
+<br/>
+<br/>
 
-[jekyll-organization]: https://github.com/jekyll
+## Work Experience
+**echoAR, Inc.**\
+New York, NY\
+*Software Engineer Intern* (Sep 2020 – Nov 2020)
+
+**Tencent**\
+Beijing, China\
+*Summer Intern* (May 2019 – Jul 2019)
+
+**Houston Methodist Hospital, Research Institute**\
+Houston, TX\
+*Summer Research Intern* (Jun 2018 – Aug 2018)
+<br/>
+<br/>
